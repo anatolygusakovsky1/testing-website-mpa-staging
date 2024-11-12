@@ -29,7 +29,7 @@ const ContactForm = () => {
       message: '',
     });
     // Reload the page
-    window.location.reload();
+    // window.location.reload();
   };
 
   return (
